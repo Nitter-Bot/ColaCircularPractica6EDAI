@@ -8,4 +8,9 @@ podemos hacer cambios para que sea una cola dinamica y que metan la cantidad n d
 Lo mas importante fue recorrer los apuntadores para saber que elemento imprimir en pantalla y siga en ese ciclo de
 girar nuestra cola.
 
+IMPORTANTE
+Para esta practica no se implemento el metodo pop o borrar, asi como otros no tan relevantes en la estructura de datos,
+si eres estudiante y quieres este metodo puede que luego lo actualize. :)
+No es cierto sufre igual que yo jajajaja, ntc tal vez si lo implemente
+
 Cualquier sugerencia es recibida y star de repo pls
